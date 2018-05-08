@@ -1,6 +1,5 @@
-# PrecisePositioningAlgorithmUsingGPS
+# PrecisePositioningAlgorithmUsingGPS 
 This is my project but not started yet.The ideas are as follow.
-
     现实中的GPS定位往往只精确到几十米或几百米，这是因为手机自带的GPS
 模板运算功能有限，无法实现位置的精确计算。那么如何运用公开的GPS信号，
 精确计算自己所在的位置呢？
